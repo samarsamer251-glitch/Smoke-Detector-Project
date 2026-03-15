@@ -1,2 +1,12 @@
-# Smoke-Detector-Project
-Smart smoke detection system using Arduino and MQ-2 sensor for fire safety and real-time monitoring.
+# مشروع كاشف الدخان (Smoke Detector Project)
+
+هذا المشروع عبارة عن نظام ذكي للكشف عن الدخان باستخدام متحكم **Arduino** ومستشعر **MQ-2**.
+
+## المكونات المستخدمة:
+* Arduino Uno
+* MQ-2 Gas Sensor
+* Buzzer
+* LED
+
+## آلية العمل:
+يقوم المستشعر بقياس نسبة الدخان في الجو، وفي حال تجاوز
